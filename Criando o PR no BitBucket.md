@@ -1,4 +1,4 @@
-É necessário que envie um e-mail para o ti@idealtrends.atlassian.net solicitando a criação do Vhost e autorização para os usuários do Suporte/Deploy, solicite o modelo de e-mail para o Everton ou para o Hiago.
+É necessário que envie um e-mail para o suporte@m3solutions.com.br solicitando a criação do Vhost e autorização para os usuários do Suporte/Deploy, solicite o modelo de e-mail para o Everton ou para o Hiago.
 
 Agora iremos utilizar o [[BitBucket]] para realizar o PR (Pull Request) e alterações necessárias no código. Na barra de pesquisa cole o domínio do cliente assim que aparecer selecione o repositório.
 Ao acessar o repositório, clique em Pull Requests e caso tenha algum PR apenas dê o merge, se não tiver clique em criar Pull Request, ao clicar irá se abrir uma janela 
