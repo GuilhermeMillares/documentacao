@@ -1,9 +1,47 @@
-É necessário que envie um e-mail para o `suporte@m3solutions.com.br` solicitando a criação do Vhost e autorização para os usuários do Suporte/Deploy, solicite o modelo de e-mail para o Everton ou para o Hiago.
+## 📧 Solicitação de Vhost
 
-Agora iremos utilizar o [[BitBucket]] para realizar o PR (Pull Request) e alterações necessárias no código. Na barra de pesquisa cole o domínio do cliente assim que aparecer selecione o repositório.
-Ao acessar o repositório, clique em Pull Requests e caso tenha algum PR apenas dê o merge, se não tiver clique em criar Pull Request, ao clicar irá se abrir uma janela 
-![[Pasted image 20260116145222.png]]
-![[Pasted image 20260116145256.png]]
-Essa é a tela de quando é necessário criar o PR, você está migrando o que estava na branch produção (ambiente de desenvolvimento) para a branch main (ambiente principal do projeto) é necessário clicar na caixa para deletar a branch de desenvolvimento após o merge, após verificar se está tudo certo clique em Create pull request.
+Antes de qualquer alteração no código, é necessário solicitar a criação do **Vhost** e a autorização para os usuários de **Suporte/Deploy**:
 
-Após criar o pull request é necessário que você realize o merge, então na tela que irá se abrir você vai estar dentro do PR criado (Ou do PR que já existia) clique nos três pontinhas (caso não apareça o botão azul Merge) clique em Merge e pronto, PR feita.
+1. Envie um e-mail para:  
+    `suporte@m3solutions.com.br`
+2. Para o modelo de e-mail, consulte:
+    - **Everton**
+    - **Hiago**
+
+---
+
+## 💻 Trabalhando com Pull Request no Bitbucket
+
+### 1. Acessar o repositório
+
+1. Abra o [[BitBucket]]
+2. Na barra de pesquisa, cole o domínio do cliente
+3. Selecione o repositório correspondente
+
+---
+
+### 2. Criar ou verificar Pull Request
+
+1. No repositório, clique em **Pull Requests**
+2. Se já houver um PR existente → apenas **faça o merge**
+3. Se não houver PR → clique em **Criar Pull Request**
+
+> Exemplo da tela de criação do PR:  
+> ![[Pasted image 20260116145222.png]]  
+> ![[Pasted image 20260116145256.png]]
+
+---
+
+### 3. Configurações do Pull Request
+
+- O PR deve migrar o código da **branch `produção`** (desenvolvimento) para a **branch `main`** (ambiente principal)
+- Marque a opção para **deletar a branch de desenvolvimento** após o merge
+- Clique em **Create Pull Request**
+
+---
+
+### 4. Realizar o Merge
+
+1. Após criar o PR, você será direcionado para a tela do Pull Request
+2. Caso o botão azul **Merge** não apareça, clique nos **três pontinhos** e selecione **Merge**
+3. O PR será concluído com sucesso ✅
