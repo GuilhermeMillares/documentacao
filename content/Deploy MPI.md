@@ -152,17 +152,6 @@ Para configurar o **Google Tag Manager (GTM)** no projeto MPI, siga os passos ab
 
 ### 🖼️ Exemplo
 
-![[Pasted image 20260330173918.png]]
-
-> [!tip] Dica
-> 
-> - Sempre verifique se as tags, triggers e variáveis foram importadas corretamente
-> - Caso já existam configurações no container, revise possíveis conflitos antes de publicar
-Fora os pontos mencionados acima, seguir o processo padrão do **Busca Cliente**.
-
-
-### 🖼️ Exemplo
-
 ![[Captura de tela 2026-03-30 174042(3).gif]]
 
 > [!tip] Dica
