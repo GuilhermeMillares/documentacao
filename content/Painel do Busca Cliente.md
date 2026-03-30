@@ -1,3 +1,10 @@
-O Painel é necessário para quando no comentário da tarefa no Salesforce não possui o número de painel e você precisa colocar este número do painel no código. 
+O **Painel do Busca Cliente** é utilizado para localizar o **número do painel do cliente**, que é necessário quando o comentário da tarefa no Salesforce **não fornece esse número**.
 
-Então é necessário que acesse o painel, clique em projetos e na barra de pesquisa insira o domínio do cliente, assim irá achar o ID do cliente para colocar no código.
+### Passo a passo para localizar o ID do painel:
+
+1. Acesse o **Painel do Busca Cliente**
+2. Clique em **Projetos**
+3. Na barra de pesquisa, insira o **domínio do cliente**
+4. Localize o **ID do cliente** exibido e utilize-o no código
+
+> ⚠️ Esse número é essencial para configurar corretamente a variável `$idProjetoBusca` no arquivo `geral.php`.

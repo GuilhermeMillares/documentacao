@@ -1,3 +1,8 @@
-Ele é o nosso "site" onde conseguimos realizar acesso aos servidores que estão com os Vhosts que são criados para que a gente possa dar o Git clone na public.
+O **Guacamole** é a nossa plataforma para **acesso remoto aos servidores** dos clientes.
 
-Só é possível realizar o deploy completo do site do cliente realizando as etapas necessárias no Guacamole.
+- É através dele que conseguimos acessar os **Vhosts** criados para cada cliente.
+- Permite executar o **Git clone** na pasta `public` do servidor.
+
+> ⚠️ **Importante:**  
+> O **deploy completo** do site do cliente **só pode ser realizado** seguindo todas as etapas dentro do Guacamole.
+
