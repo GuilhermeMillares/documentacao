@@ -1,11 +1,25 @@
-As contas do Google são necessárias para que a gente consiga a partir delas fazer os procedimentos necessários na Google e inserir no código.
+## 🔐 Contas Google necessárias
 
-Então é necessário que você tenha acesso as contas:
+As contas do Google são utilizadas para realizar integrações e configurações essenciais, como:
 
-`bcrelatorios@gmail.com` 
- 
-`bcrelatorios2@gmail.com`
+- Acesso a ferramentas do Google (ex: Analytics, Tag Manager, Search Console)
+- Configuração de serviços vinculados ao site
+- Inserção e validação de códigos de rastreamento
 
-`bcrelatoriotags@gmail.com`
+---
 
-`bcrelatorios5@gmail.com`
+## 📧 Contas utilizadas
+
+Para executar os procedimentos corretamente, é necessário ter acesso às seguintes contas:
+
+%%
+bcrelatorios@gmail.com  
+bcrelatorios2@gmail.com  
+bcrelatoriotags@gmail.com  
+bcrelatorios5@gmail.com
+%%
+
+---
+
+> ⚠️ **Importante**  
+> Sem acesso a essas contas, não será possível concluir as configurações e integrações necessárias nos projetos.
