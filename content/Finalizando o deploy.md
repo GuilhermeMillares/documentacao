@@ -1,5 +1,30 @@
-Após realizar o sitemap e o site estar no ar e funcionando, vá até o salesforce, clique em realcionado a, clique na razão social do cliente e em chatter. Coloque um @ e marque a pessoa responsável, você pode verificar na primeira página da tarefa no final dela por quem foi criado. 
+## ✅ Finalizando o Deploy do Site
 
-Marque a pessoa e coloquei "site concluído". Após isso é necessário adicionar as informações na planilha de fluxo, pode seguir como os outros acima só será necessário verificar se o site é um "Busca One" ou "Busca One Híbrido", verifique também todas as atividades a frente para marcar elas como finalizado.
+Após o sitemap estar configurado e o site **no ar e funcionando**, siga os passos abaixo para concluir o processo:
 
-E assim está realizado o processo de Deploy de um site.
+---
+
+### 1. Atualizar o Salesforce
+
+1. Acesse o **Salesforce**
+2. Clique em **Relacionado a**
+3. Selecione a **razão social do cliente**
+4. Vá para a aba **Chatter**
+5. Digite `@` e marque a **pessoa responsável** pelo projeto
+    - Você pode verificar quem é o responsável na primeira página da tarefa, no final dela
+6. Adicione o comentário:
+
+Site concluído
+
+---
+
+### 2. Atualizar a planilha de fluxo
+
+1. Abra a **planilha de fluxo**
+2. Preencha as informações do site conforme os exemplos anteriores
+3. Verifique se o site é **Busca One** ou **Busca One Híbrido**
+4. Marque todas as **atividades relacionadas** como **finalizadas**
+
+---
+
+✅ Com isso, o processo de **Deploy de um site** está completo.

@@ -1,18 +1,30 @@
-Alguns clientes irão solicitar para os analistas que querem adicionar a campanha deles do Google ADS no tag manager porém temos duas respostas: %% e você pode enviar diretamente para o analista da mesma forma que estiver aqui. %%
+Alguns clientes podem solicitar que adicionemos **campanhas do Google Ads** no Tag Manager. 
+Siga os passos abaixo para saber como realizar essa tarefa.
 
+---
 
-#### Se o cliente enviar código (javascript) e/ou pedir para adicionar o Tag Manager dele
+### 🔹 Se o cliente enviar código (JavaScript) ou pedir para adicionar o Tag Manager dele
 
-*Todo site deve utilizar apenas um gerenciador de tags (Tag Manager), a fim de garantir a integridade do código e manter a performance otimizada.*
+> ⚠️ Todo site deve utilizar **apenas um gerenciador de tags (Tag Manager)** para garantir a integridade do código e manter a performance otimizada.
 
-*Neste projeto, utilizamos exclusivamente o nosso próprio Tag Manager. Caso o cliente deseje implementar alguma ferramenta ou tag específica — como Google Ads, Meta Ads, Hotjar, entre outras —, ele deve nos informar, e nós realizaremos a devida inclusão por meio do nosso gerenciador.*
+Neste projeto, usamos **exclusivamente nosso Tag Manager**.  
+Caso o cliente queira adicionar alguma ferramenta ou tag específica — como **Google Ads, Meta Ads, Hotjar, entre outras** —:
 
-*Todas as configurações são centralizadas em nosso Tag Manager. Como cada ferramenta possui requisitos específicos de configuração, é fundamental que o cliente informe previamente quais ferramentas deseja utilizar. Com isso, forneceremos as instruções e dados necessários para viabilizar a implementação correta.*
+1. O cliente deve nos informar quais ferramentas deseja implementar
+2. Nós realizaremos a inclusão **através do nosso Tag Manager**
 
-![[Tela-1 (1).png]]![[Tela-2 (1).png]]
+Todas as configurações são centralizadas, e cada ferramenta possui requisitos específicos de implementação. Por isso, é essencial que o cliente forneça **as informações necessárias antes da configuração**.
 
-Você pode enviar as imagens para o analista também para que ele solicite ao cliente essas informações.
+![[Tela-1 (1).png]]  
+![[Tela-2 (1).png]]
 
->[!lembrando] Lembrando
->Se ele quiser medir mais de um tipo de conversão, será necessário criar uma campanha separada para cada objetivo. Assim, cada campanha terá seu próprio ID e rótulo de conversão, permitindo um acompanhamento mais organizado e preciso dos resultados.
+> 💡 Você pode enviar essas imagens para o analista, para que ele solicite ao cliente as informações corretas.
 
+---
+
+### ⚠️ Observação importante
+
+Se o cliente quiser medir **mais de um tipo de conversão**, será necessário criar **uma campanha separada para cada objetivo**.
+
+- Cada campanha terá **seu próprio ID e rótulo de conversão**
+- Isso permite **acompanhamento mais organizado e preciso** dos resultados

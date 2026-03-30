@@ -1,3 +1,9 @@
-O Salesforce é o CRM onde visualizamos as tarefas geradas pelos outros setores para que seja realizada a publicação do site.
+O **Salesforce** é o **CRM** onde acompanhamos todas as tarefas geradas por outros setores relacionadas à publicação de sites.
 
-Nele temos as tarefas do Deploy onde conseguimos visualizar os comentários, e toda a interação sobre o domínio, podemos investigar em algumas abas para achar algumas coisas que não foram colocadas no campo de comentário ou título, como o domínio por exemplo.
+### Funcionalidades principais para o deploy:
+
+- Visualizar as **tarefas de Deploy** do site
+- Acessar **comentários e interações** relacionadas ao domínio do cliente
+- Investigar diferentes abas para localizar informações **não registradas no comentário ou título**, como, por exemplo, o próprio domínio do cliente
+
+> ⚠️ É importante verificar todas as informações no Salesforce antes de iniciar qualquer procedimento de deploy, para garantir que o código e as configurações sejam aplicados corretamente.
